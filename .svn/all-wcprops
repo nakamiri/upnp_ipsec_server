@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/master/!svn/ver/52/upnp/upnp_ipsec_server
+END
+hoge.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/master/!svn/ver/27/upnp/upnp_ipsec_server/hoge.txt
+END
+pkt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/master/!svn/ver/27/upnp/upnp_ipsec_server/pkt
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/master/!svn/ver/27/upnp/upnp_ipsec_server/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/master/!svn/ver/27/upnp/upnp_ipsec_server/.classpath
+END
+time.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/master/!svn/ver/43/upnp/upnp_ipsec_server/time.txt
+END
